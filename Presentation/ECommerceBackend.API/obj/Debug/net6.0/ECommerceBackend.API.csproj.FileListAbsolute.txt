@@ -25,3 +25,9 @@ C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation
 C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\obj\Debug\net6.0\ECommerceBackend.API.pdb
 C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\obj\Debug\net6.0\ECommerceBackend.API.genruntimeconfig.cache
 C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\obj\Debug\net6.0\ref\ECommerceBackend.API.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\ECommerceBackend.Application.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\ECommerceBackend.Domain.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\ECommerceBackend.Persistence.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\ECommerceBackend.Application.pdb
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\ECommerceBackend.Persistence.pdb
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\ECommerceBackend.Domain.pdb

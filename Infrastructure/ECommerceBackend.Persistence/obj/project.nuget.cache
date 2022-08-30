@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GNDqabJaSziBeqDl0okNSXz5+4afq9kkugMgmTR4C4SlhnDH6f2WED62mIW0hhwGz6MdMflFeZJJZtkarnWf/g==",
+  "dgSpecHash": "/ff1P7FEI75GrdGYCVSSCYNy2nuZ5NGdZRO9PjixNaU6MpP0mmr5XtLH0qOTAZHDGh45ZNaiRWI0KR5SdRc3sg==",
   "success": true,
   "projectFilePath": "C:\\Users\\mrtag\\OneDrive\\Masaüstü\\Mini.E-Commerce\\ECommerceBackend\\Infrastructure\\ECommerceBackend.Persistence\\ECommerceBackend.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mrtag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\bin\Debug\net6.0\ECommerceBackend.Application.deps.json
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\bin\Debug\net6.0\ECommerceBackend.Application.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\bin\Debug\net6.0\ECommerceBackend.Application.pdb
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\bin\Debug\net6.0\ECommerceBackend.Domain.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\bin\Debug\net6.0\ECommerceBackend.Domain.pdb
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\obj\Debug\net6.0\ECommerceBackend.Application.csproj.AssemblyReference.cache
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\obj\Debug\net6.0\ECommerceBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\obj\Debug\net6.0\ECommerceBackend.Application.AssemblyInfoInputs.cache
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\obj\Debug\net6.0\ECommerceBackend.Application.AssemblyInfo.cs
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\obj\Debug\net6.0\ECommerceBackend.Application.csproj.CoreCompileInputs.cache
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\obj\Debug\net6.0\ECommerceBackend.Application.csproj.CopyComplete
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\obj\Debug\net6.0\ECommerceBackend.Application.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\obj\Debug\net6.0\refint\ECommerceBackend.Application.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\obj\Debug\net6.0\ECommerceBackend.Application.pdb
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Core\ECommerceBackend.Application\obj\Debug\net6.0\ref\ECommerceBackend.Application.dll
