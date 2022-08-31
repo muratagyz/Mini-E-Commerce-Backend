@@ -1,0 +1,17 @@
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\bin\Debug\net6.0\ECommerceBackend.Infrastructure.deps.json
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\bin\Debug\net6.0\ECommerceBackend.Infrastructure.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\bin\Debug\net6.0\ECommerceBackend.Infrastructure.pdb
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\bin\Debug\net6.0\ECommerceBackend.Application.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\bin\Debug\net6.0\ECommerceBackend.Domain.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\bin\Debug\net6.0\ECommerceBackend.Application.pdb
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\bin\Debug\net6.0\ECommerceBackend.Domain.pdb
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\obj\Debug\net6.0\ECommerceBackend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\obj\Debug\net6.0\ECommerceBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\obj\Debug\net6.0\ECommerceBackend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\obj\Debug\net6.0\ECommerceBackend.Infrastructure.AssemblyInfo.cs
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\obj\Debug\net6.0\ECommerceBackend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\obj\Debug\net6.0\ECommerceBackend.Infrastructure.csproj.CopyComplete
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\obj\Debug\net6.0\ECommerceBackend.Infrastructure.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\obj\Debug\net6.0\refint\ECommerceBackend.Infrastructure.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\obj\Debug\net6.0\ECommerceBackend.Infrastructure.pdb
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Infrastructure\obj\Debug\net6.0\ref\ECommerceBackend.Infrastructure.dll

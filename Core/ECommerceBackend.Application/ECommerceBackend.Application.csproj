@@ -10,8 +10,4 @@
     <ProjectReference Include="..\ECommerceBackend.Domain\ECommerceBackend.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Abstractions\" />
-  </ItemGroup>
-
 </Project>

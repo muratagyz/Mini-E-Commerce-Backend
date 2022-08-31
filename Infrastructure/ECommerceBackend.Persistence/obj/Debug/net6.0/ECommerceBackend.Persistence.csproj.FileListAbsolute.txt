@@ -15,3 +15,5 @@ C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructu
 C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Persistence\obj\Debug\net6.0\refint\ECommerceBackend.Persistence.dll
 C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Persistence\obj\Debug\net6.0\ECommerceBackend.Persistence.pdb
 C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Persistence\obj\Debug\net6.0\ref\ECommerceBackend.Persistence.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Persistence\bin\Debug\net6.0\ECommerceBackend.Persistence.runtimeconfig.json
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Infrastructure\ECommerceBackend.Persistence\obj\Debug\net6.0\ECommerceBackend.Persistence.genruntimeconfig.cache

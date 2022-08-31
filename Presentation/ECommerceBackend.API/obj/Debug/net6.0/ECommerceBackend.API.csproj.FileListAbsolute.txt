@@ -31,3 +31,11 @@ C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation
 C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\ECommerceBackend.Application.pdb
 C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\ECommerceBackend.Persistence.pdb
 C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\ECommerceBackend.Domain.pdb
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\mrtag\OneDrive\Masaüstü\Mini.E-Commerce\ECommerceBackend\Presentation\ECommerceBackend.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
