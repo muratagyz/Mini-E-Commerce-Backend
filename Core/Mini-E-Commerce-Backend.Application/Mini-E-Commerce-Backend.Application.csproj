@@ -11,8 +11,4 @@
     <ProjectReference Include="..\Mini-E-Commerce-Backend.Domain\Mini-E-Commerce-Backend.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Abstractions\" />
-  </ItemGroup>
-
 </Project>
