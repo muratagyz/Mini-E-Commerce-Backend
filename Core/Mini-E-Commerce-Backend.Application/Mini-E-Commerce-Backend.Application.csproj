@@ -11,4 +11,12 @@
     <ProjectReference Include="..\Mini-E-Commerce-Backend.Domain\Mini-E-Commerce-Backend.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.3" />
+  </ItemGroup>
+
 </Project>
