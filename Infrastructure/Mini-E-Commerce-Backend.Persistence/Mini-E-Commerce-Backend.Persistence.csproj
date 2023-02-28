@@ -25,7 +25,9 @@
 
   <ItemGroup>
     <Folder Include="Contexts\" />
-    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\Product\" />
+    <Folder Include="Repositories\Order\" />
+    <Folder Include="Repositories\Customer\" />
   </ItemGroup>
 
 </Project>

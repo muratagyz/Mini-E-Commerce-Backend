@@ -22,5 +22,5 @@ public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity
 
     public async Task<T> GetSingleAsync(Expression<Func<T, bool>> expression) => await Table.FirstOrDefaultAsync(expression);
 
-    public async Task<T> GetByIdAsync(string id) => await Table.FirstOrDefaultAsync(x => x.Id == Guid.Parse(id));
+    public async Task<T> GetByIdAsync(string id) => await Table.FindAsync(Guid.Parse(id));
 }

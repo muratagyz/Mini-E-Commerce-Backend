@@ -7,6 +7,7 @@ public class ECommerceAPIDbContext : DbContext
 {
     public ECommerceAPIDbContext(DbContextOptions options) : base(options)
     {
+        AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
     }
 
     public DbSet<Product> Products { get; set; }
