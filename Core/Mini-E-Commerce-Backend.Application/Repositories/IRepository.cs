@@ -5,5 +5,5 @@ namespace Mini_E_Commerce_Backend.Application.Repositories;
 
 public interface IRepository<T> where T : BaseEntity
 {
-    DbSet<T> Table { get; }
+    protected DbSet<T> Table { get; }
 }

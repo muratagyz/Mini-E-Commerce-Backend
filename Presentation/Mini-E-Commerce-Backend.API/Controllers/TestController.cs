@@ -10,52 +10,25 @@ namespace Mini_E_Commerce_Backend.API.Controllers
     {
         private readonly IProductWriteRepository _productWriteRepository;
         private readonly IProductReadRepository _productReadRepository;
+        private readonly IOrderWriteRepository _orderWriteRepository;
+        private readonly ICustomerWriteRepository _customerWriteRepository;
+        private readonly IOrderReadRepository _orderReadRepository;
 
-        public TestController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository)
+        public TestController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository, IOrderWriteRepository orderWriteRepository, ICustomerWriteRepository customerWriteRepository, IOrderReadRepository orderReadRepository)
         {
             _productWriteRepository = productWriteRepository;
             _productReadRepository = productReadRepository;
+            _orderWriteRepository = orderWriteRepository;
+            _customerWriteRepository = customerWriteRepository;
+            _orderReadRepository = orderReadRepository;
         }
 
-        [HttpGet]
-        public async Task AddRange()
+        [HttpGet("Add")]
+        public async Task Add()
         {
-            await _productWriteRepository.AddRangeAsync(new()
-            {
-                new Product()
-                {
-                    Id = Guid.NewGuid(),
-                    Name = "Product 1",
-                    Price = 100,
-                    Stock = 10,
-                    CreateDate = DateTime.Now,
-                },
-                new Product()
-                {
-                    Id = Guid.NewGuid(),
-                    Name = "Product 2",
-                    Price = 200,
-                    Stock = 20,
-                    CreateDate = DateTime.Now,
-                },
-                new Product()
-                {
-                    Id = Guid.NewGuid(),
-                    Name = "Product 3",
-                    Price = 300,
-                    Stock = 30,
-                    CreateDate = DateTime.Now,
-                }
-            });
-
-            await _productWriteRepository.SaveAsync();
-        }
-
-        [HttpGet("{id}")]
-        public async Task<IActionResult> GetById(string id)
-        {
-            var result = await _productReadRepository.GetByIdAsync(id);
-            return Ok(result);
+            var order = await _orderReadRepository.GetByIdAsync("bdf43859-b867-4b32-85c4-7d4ad5777c3c");
+            order.Address = "İstanbul";
+            await _orderWriteRepository.SaveAsync();
         }
     }
 }
